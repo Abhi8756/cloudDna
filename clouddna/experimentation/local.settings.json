@@ -1,0 +1,18 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "COSMOS_ENDPOINT": "https://clouddna-cosmos.documents.azure.com:443/",
+    "EVENT_HUB_CONNECTION_STRING": "",
+    "APP_INSIGHTS_KEY": "",
+    "AZURE_CLIENT_ID": "",
+    "AZURE_CLIENT_SECRET": "",
+    "AZURE_TENANT_ID": ""
+  },
+  "ConnectionStrings": {
+    "CosmosDB": "",
+    "EventHub": ""
+  }
+}
